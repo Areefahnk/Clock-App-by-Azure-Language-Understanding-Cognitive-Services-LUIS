@@ -9,3 +9,5 @@ For example, a language understanding app for a clock application might be expec
 What is the time in London?
 
 This kind of input is an example of an utterance (something a user might say or type), for which the desired intent is to get the time in a specific location (an entity); in this case, London.
+
+GUIDE: https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/09-language-understanding-app.html
